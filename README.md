@@ -4,7 +4,7 @@ This project demonstrates a JWT Authentication system using Django and React. It
 Refrence:
 1. [Django JWT Authentication with React 2021](https://www.youtube.com/watch?v=QFDyXWRYQjY)
 2. [django-rest-framework.org](https://www.django-rest-framework.org/api-guide/authentication/)
-3. ['djoser'](https://djoser.readthedocs.io/en/latest/)
+3. [`djoser`](https://djoser.readthedocs.io/en/latest/getting_started.html)
 
 
 ```cmd
