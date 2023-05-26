@@ -1,0 +1,3 @@
+[submodule "React_frontend_jwt"]
+	path = React_frontend_jwt
+	url = https://github.com/Ayon-SSP/React_frontend_jwt
