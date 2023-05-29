@@ -2,4 +2,4 @@
 # vertual env's
 venv
 
-auth_system/.env
+.env
