@@ -9,3 +9,25 @@ Refrence:
 
 ```cmd
 ```
+
+
+
+Start Project
+```cmd
+source venv/bin/activate
+service postgresql start
+python3 Django-backend/manage.py runserver
+```
+
+
+
+Users
+```txt
+{
+    "name": "ayonssp",
+    "email": "ayoniiiiii10@gmail.com",
+    "password": "AYON#8sjJy@!",
+    "re_password": "AYON#8sjJy@!"
+}
+```
+
